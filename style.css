@@ -1,0 +1,206 @@
+nav{
+    background-color: ble;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.navigator{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+}
+.hero{
+    background: url(scandinavian-interior-mockup-wall-decal-background\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 98%;
+    height: 100vh;
+    margin-left: 20px;
+    position: relative;
+}
+.hero-con{
+    background-color:#FFF3E3;
+    width: 643px;
+    height: 400px;
+    position: absolute;
+    top: 375px;
+    left: 1100px;
+    border-radius: 10px;
+
+    .new{
+        size: 16px;
+        line-height: 24px;
+        position: absolute;
+        left: 40px;
+        top: 10px;
+    }
+
+    h1{
+        color:#B88E2F;
+        font-size:300%;
+        size: 100px;
+        position:absolute;
+        top: 18px;
+        left: 40px;
+    }
+
+    .void{
+        position: absolute;
+        top: 180px;
+        left: 40px;
+        width:570px;
+    }
+
+    button{
+        background-color: #B88E2F;
+        color: white;
+        position: absolute;
+        top: 270px;
+        left: 45px;
+        width: 150px;
+        height: 45px;
+
+    }
+}
+.content{
+    h2{
+        text-align: center;
+    }
+
+    p{
+        text-align: center;
+        margin-bottom: 50px;
+    }
+}
+.hero-img{
+    display: flex;
+    gap: 80px;
+    padding-left: 300px;
+}
+.p-img-1{
+    text-align: center;
+}
+.p-img-2{
+    text-align: center;
+}
+.p-img-3{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    padding-top: 50px;
+}
+.first-sec{
+    display: flex;
+    gap: 50px;
+    padding-left: 300px;
+}
+.second-sec{
+    display: flex;
+    gap: 50px;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+.sec-btn{
+    width: 245px;
+    height: 48px;
+    color: #B88E2F;
+    margin-left: 800px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.hero-four{
+    background-color:#FCF8F3;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 80px;
+    padding-top:50px;
+}
+.hero-bod{
+    margin-top: 150px;
+    padding-left: 40px;
+
+    h1{
+        font-size: 300%;
+    }
+
+    p{
+        width: 370px;
+    }
+
+    button{
+        width: 176px;
+        height: 48px;
+        background-color: #B88E2F;
+    }
+}
+.bud-five{
+    text-align: center;
+    margin-top: 40px;
+}
+.fiv-img{
+    position: relative;
+
+    .pic-3{
+        position: absolute;
+        left: 160px;
+        top: 140px;
+    }
+
+    .pic-4{
+        position: absolute;
+        left:320px;
+        bottom: -10px;
+    }
+
+    .pic-5{
+        position: absolute;
+        left: 700px;
+        bottom: 100px;
+    }
+
+    .pic-7{
+        position: absolute;
+        left: 1100px;
+        bottom: 250px;
+    }
+
+    .pic-9{
+        position: absolute;
+        left: 1500px;
+        bottom: 300px;
+    }
+
+    .pic-6{
+        position: absolute;
+        left: 1100px;
+        bottom: -30px;
+    }
+
+    .pic-8{
+        position: absolute;
+        left:1400px ;
+        bottom: 30px;
+    }
+
+    .pic-2{
+        margin-left: 30px;
+        margin-top: 100px;
+    }
+}
+.hero-6{
+    width: 1440px;
+    height: 505px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 200px;
+    padding-left:200px ;
+    margin-top: 150px;
+}
+.dev{
+    display: flex;
+}
+.blum{
+    
+}
