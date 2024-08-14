@@ -200,7 +200,16 @@ h3{
 }
 .dev{
     display: flex;
+    justify-content:space-around;
 }
 .blum{
-    
+    margin-right: 50px;
+    margin-top: 90px;
+}
+.swap{
+    margin-top: 75px;
+}
+.ham{
+    margin-left: 50px;
+    margin-top: 80px;
 }
